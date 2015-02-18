@@ -9,9 +9,9 @@ As opposed to the widget Twitter provides, this one can easily be customized and
 
 Simply include the file in functions.php
 
-`include('inc/pure_latest_tweets.php');`
+`include('library/pure_latest_tweets.php');`
 
-Enable to widget in the Wordpress admin interface, fill in the necessary fields and enjoy! :)
+Enable the widget in the Wordpress admin interface, fill in the necessary fields, save and enjoy! :)
 
 ---
 Last update: February 2015
